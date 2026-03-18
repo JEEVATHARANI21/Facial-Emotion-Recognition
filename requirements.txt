@@ -1,2 +1,7 @@
+tensorflow==2.13.0
+deepface==0.0.79
 opencv-python
-deepface
+numpy
+retina-face
+mtcnn
+tf-keras
